@@ -71,4 +71,3 @@ npm install lucide-react
 ```
 npm start
 ```
->>>>>>> d4b59a162c8a9907094e0a5542f14fb0ddcbbd5a
